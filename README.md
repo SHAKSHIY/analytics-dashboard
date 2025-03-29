@@ -34,7 +34,7 @@ Redis (optional but recommended for caching)
 bash
 Copy
 Edit
-git clone https://github.com/kelindar/analytics-dashboard.git
+git clone https://github.com/SHAKSHIY/analytics-dashboard.git
 cd analytics-dashboard
 🔹 Backend Setup (Go Server)
 1️⃣ Navigate to the backend directory:
